@@ -1,5 +1,5 @@
 # yamltopng
-Uses [yamltogliffy](https://github.com/yzxbmlf/yamltogliffy) to produce a .gliffy file and then automates Gliffy to produce 
+Uses [yamltogliffy](https://github.com/yzxbmlf/yamltogliffy) to produce a .gliffy file and then automates [Gliffy](https://www.gliffy.com) to produce 
 a PNG image.
 
 This tool doesn't really care about the what is in the .gliffy file. It could be
